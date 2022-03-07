@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> Rendering test! 1`] = `
+<div
+  className="makeStyles-layout-3"
+>
+  <div
+    className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation2 makeStyles-container-4 css-p7cgzs-MuiPaper-root"
+  >
+    <div
+      className="makeStyles-headText-1"
+    >
+      Minesweeper
+    </div>
+    <div
+      className="makeStyles-boxContainer-11"
+    >
+      <div
+        className="makeStyles-boxes-10 MuiBox-root css-0"
+        onClick={[Function]}
+      >
+        10 ✕ 10
+      </div>
+      <div
+        className="makeStyles-boxes-10 MuiBox-root css-0"
+        onClick={[Function]}
+      >
+        40 ✕ 20
+      </div>
+      <div
+        className="makeStyles-boxes-10 MuiBox-root css-0"
+        onClick={[Function]}
+      >
+        100 ✕ 50
+      </div>
+      <div
+        className="makeStyles-boxes-10 MuiBox-root css-0"
+        onClick={[Function]}
+      >
+        500 ✕ 50
+      </div>
+    </div>
+  </div>
+</div>
+`;
